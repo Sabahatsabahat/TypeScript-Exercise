@@ -1,0 +1,1 @@
+- //Favorite Number: Store your favorite number in variable and reveal in a message.
